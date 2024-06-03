@@ -27,3 +27,11 @@ Following the suggested way by PyHealth: https://github.com/sunlabuiuc/PyHealth.
 
 Download MIMIC-III & MIMIC-IV & eICU datasets from https://physionet.org/content/; 
 
+## Citation
+
+@inproceedings{xu_jiang_chu_et_al,
+  title={ProtoMix: Augmenting Health Status Representation Learning via Prototype-based Mixup},
+  author={Xu, Yongxin and Jiang, Xinke and Chu, Xu and Xiao, Yuzhen and Zhang, Chaohe and Ding, Hongxin and Zhao, Junfeng and Wang, Yasha and Xie, Bing},
+  booktitle={SIGKDD},
+  year={2024}
+}
