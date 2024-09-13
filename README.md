@@ -1,4 +1,4 @@
-# ProtoMix
+# ProtoMix （KDD 2024）
 This is a Pytorch implementation of ProtoMix: Augmenting Health Status Representation Learning via Prototype-based Mixup.
 More details of the paper and dataset will be released after it is published.
 
